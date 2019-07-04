@@ -1,0 +1,7 @@
+wechat:
+  mpAppId: wx978ee25dcb844019
+  mpAppSecret: 3de9d446850759dc6097ef4d9487a0f1
+server:  port: 8080
+spring.thymeleaf.prefix: classpath:/templates/
+##spring.thymeleaf.suffix: .html
+
